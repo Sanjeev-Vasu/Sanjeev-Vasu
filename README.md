@@ -10,6 +10,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanjeev-Vasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![Sanjeev-Vasu's Stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Vasu&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false)<br/>
+![Sanjeev-Vasu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjeev-Vasu&theme=vision-friendly-dark&hide_border=true)
+![Sanjeev-Vasu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Vasu&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjeev-Vasu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Vasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
