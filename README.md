@@ -22,3 +22,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanjeev-Vasu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<div alighn="center">
+---
+![snake gif](https://github.com/Sanjeev-Vasu/Sanjeev-Vasu/blob/output/github-snake-dark.svg)
+</div>
