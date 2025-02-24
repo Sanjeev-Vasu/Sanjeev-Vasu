@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Vasu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"I do it Better."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev-vasu&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev-vasu" /> </p>
 
