@@ -25,7 +25,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/29667425/sanjeev-vasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/29667425/sanjeev-vasu" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://hashnode.com/@sanjeevvasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sanjeevvasu" height="30" width="40" /></a>
 <a href="https://medium.com/@isanjeevvasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isanjeevvasu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sanjeevvasu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sanjeevvasu/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sanjeevvasu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sanjeevvasu/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
